@@ -1,0 +1,8 @@
+{
+  "name": "Remix بطل السنة الأولى",
+  "description": "منصة تعليمية تفاعلية تعتمد منهاج السنة الأولى ابتدائي الجزائري، مصممة بأدوات ممتعة ومبسطة لتعزيز مهارات طفلك الدراسية ومتابعة تقدمه.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
